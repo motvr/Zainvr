@@ -1,4 +1,4 @@
-""" WRITTEN BY @pokurt, https://github.com/pokurt"""
+"WRITTEN BY @D_Z_J_C, https://github.com/motvr/Zainvr.git"
 
 import sys
 import traceback
@@ -8,7 +8,7 @@ from pyrogram.errors.exceptions.forbidden_403 import ChatWriteForbidden
 
 
 
-LOG = -1001780060083
+LOG = -1002056850275
 
 def split_limits(text):
     if len(text) < 2048:
